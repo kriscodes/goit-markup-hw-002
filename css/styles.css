@@ -1,0 +1,22 @@
+.logo{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23.9854px;
+    line-height: 28px;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+.header-container{
+    padding-left: 207px;
+    display: flex;
+    vertical-align: middle;
+}
+.header-nav-list{
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+.header-text{
+    margin: 0;
+}
